@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Roll a Ball",
-"dataUrl": "final.data.unityweb",
-"wasmCodeUrl": "final.wasm.code.unityweb",
-"wasmFrameworkUrl": "final.wasm.framework.unityweb",
+"dataUrl": "RollABall.data.unityweb",
+"wasmCodeUrl": "RollABall.wasm.code.unityweb",
+"wasmFrameworkUrl": "RollABall.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
